@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @Cacheada16
+- 📧 Meu email de contato é katia.ross@escola.pr.gov.br
+- 💝 Eu estou interessada em aprender mais sobre programar novas linguagens.
+- 📊 Ainda estou aprendendo a programar no javascript e scratch.
